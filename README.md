@@ -1,2 +1,2 @@
-# My-Cv
+# mycv
 Original CV repository
